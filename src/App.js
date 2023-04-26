@@ -1,4 +1,4 @@
-import Portfolio from "./Portfolio";
+import ClassComponent from "./ClassComponent";
 import Navbar from "./navbar";
 import Aboutus from "./test/Aboutus";
 import ApiCall from "./test/ApiCall.js";
@@ -12,8 +12,8 @@ export default function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Portfolio />}>
-            Portfolio
+          <Route path="/" element={<ClassComponent />}>
+            ClassComponent
           </Route>
           <Route path="/apicall" element={<ApiCall />} />
           <Route path="/home" element={<Home />} />
