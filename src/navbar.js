@@ -7,19 +7,13 @@ const Navbar = () => {
         <Bars />
         <NavMenu>
           <NavLink to="/" activeStyle>
-            CLASS COMPONENT
-          </NavLink>
-          <NavLink to="/home" activeStyle>
             HOME
           </NavLink>
-          <NavLink to="/aboutus" activeStyle>
-            ABOUTUS
+          <NavLink to="/employees" activeStyle>
+            EMPLOYEELIST Page
           </NavLink>
-          <NavLink to="/apicall" activeStyle>
-            APICALL
-          </NavLink>
-          <NavLink to="/counter" activeStyle>
-            COUNTER
+          <NavLink to="/employeeoverview" activeStyle>
+            EMPLOYEEOVERVIEW Page
           </NavLink>
         </NavMenu>
       </Nav>

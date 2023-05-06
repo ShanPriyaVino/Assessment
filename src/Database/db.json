@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "akash",
+      "username": "akashsingh",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 2
+    },
+    {
+      "name": "Saratha Natarajan",
+      "username": "sarathanatajan",
+      "email": "sarathanatarajan17@gmail.com",
+      "phone": "+919865702357",
+      "id": 6
+    },
+    {
+      "name": "Reema",
+      "username": "reema",
+      "email": "reema.k@gmail.com",
+      "phone": "87553132145",
+      "id": 7
+    }
+  ]
+}
